@@ -29,7 +29,7 @@ The Campaign Performance page provides a high-level snapshot of user interaction
 * **Unique Users:** 10.4K
 * **Click-Through Rate (CTR):** 11.79%
 * **Engagement Rate:** 13.58%
-* **Purchase Conversion Rate:** 0.61%
+* **Purchase Conversion Rate:** 0.60%
 
 ### The Conversion Paradox
 
