@@ -33,7 +33,7 @@ The Campaign Performance page provides a high-level snapshot of user interaction
 
 ### The Conversion Paradox
 
-While creative content drastically outperformed industry standards (with an **11.79% CTR** vs. the ~1-2% benchmark and a **13.56% Engagement Rate** vs. ~1-3%), severe friction in the post-click pipeline choked final purchases down to **0.60%**.
+While creative content drastically outperformed industry standards (with an **11.79% CTR** vs. the ~1-2% benchmark and a **13.58% Engagement Rate** vs. ~1-3%), severe friction in the post-click pipeline choked final purchases down to **0.60%**.
 
 ### Engagement by Channel & Demographics
 
