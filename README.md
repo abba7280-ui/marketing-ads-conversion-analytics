@@ -53,7 +53,7 @@ This page focuses on the post-click pipeline, tracking user drop-offs at each st
 
 * **Top-of-Funnel (Impressions & Clicks):** Exceptionally healthy, driven by high-performing creative copy and visuals.
 * **Mid-Funnel (Landing Page & Product Interaction):** Significant drop-off detected post-click, indicating poor user experience or slow page load speeds.
-* **Bottom-of-Funnel (Checkout & Purchase):** Friction points at the final checkout step, resulting in the low **0.61% purchase conversion rate**.
+* **Bottom-of-Funnel (Checkout & Purchase):** Friction points at the final checkout step, resulting in the low **0.60% purchase conversion rate**.
 
 ### Strategic Business Recommendations
 
